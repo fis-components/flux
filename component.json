@@ -1,0 +1,13 @@
+{
+    "name": "flux",
+    "description": "An application architecture based on a unidirectional data flow",
+    "repos": "https://github.com/facebook/flux.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "paths": {
+        "dist": "."
+    },
+    "version": "2.1.1"
+}
